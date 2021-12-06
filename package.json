@@ -1,0 +1,23 @@
+{
+  "name": "demo-nodejs",
+  "version": "0.0.1",
+  "description": "Application démo en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "JS",
+    "demo",
+    "hello",
+    "world"
+  ],
+  "author": "Alexandre Devos",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "uuid": "^8.3.2"
+  }
+}
